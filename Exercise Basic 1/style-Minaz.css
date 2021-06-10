@@ -1,0 +1,56 @@
+.container{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-shadow: 1px 1px 0px #000000;
+}
+
+p{
+    color: #707070;
+}
+
+li{
+    color: #707070;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+h1{
+    text-align: center;
+    color: #DB0038;
+}
+
+h2{
+    text-align: center;
+    color: #3998A3;
+}
+
+h3{
+    text-align: center;
+    color: #474747;
+}
+
+.hero{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+div > span{
+    color: #F4B400;
+    font-size: 25px;
+}
+
+footer{
+    text-align: center;
+}
+
+.rating{
+    text-align: center;
+}
+
+body{
+    font-family: 'Happy Monkey';
+}
